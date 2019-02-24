@@ -1,0 +1,30 @@
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #9a85a0;
+    font-size: 12px;
+}
+body{
+    width: 900px;
+    background-color: #55ce29;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 3px solid black
+}
+h1{
+    margin: 0;
+    padding: 20px 0;
+    color: #09c2e8;
+    text-shadow: 2px 3px 1px black;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+}
+button:hover{
+    background-color: beige;
+}
